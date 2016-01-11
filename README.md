@@ -1,4 +1,5 @@
-# SOCKET.IO PLAY
+# SOCKET.IO PLAY v0.0.1
+2015.JAN.11
 Experimenting and documenting SOCKET.IO.
 
 Tutorials:
