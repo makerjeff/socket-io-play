@@ -1,5 +1,10 @@
-# SOCKET.IO PLAY v0.0.1
+# SOCKET.IO PLAY v0.0.1b
 2015.JAN.11
+
+###Change Log
+2015.JAN.11: (v0.0.1b)
+- adding serialport monitoring. (WIP)
+
 Experimenting and documenting SOCKET.IO.
 
 Tutorials:
