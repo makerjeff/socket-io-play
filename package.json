@@ -1,6 +1,6 @@
 {
   "name": "socket-io-play",
-  "version": "0.0.1",
+  "version": "0.0.1b",
   "description":"Experimenting and docuJeffing SOCKET.IO.",
   "private":"true",
   "dependencies": {
